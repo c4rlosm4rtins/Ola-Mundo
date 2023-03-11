@@ -1,6 +1,6 @@
 # Olá, Mundo!
- Primeiro Repositorio Versionado
+ **Primeiro Repositorio Versionado**
 
- Aprendendo mais sobre versionamento.
+ *Aprendendo mais sobre versionamento.*
  
- Essa linha alterei direitamente pelo GitHub
+ Essa linha alterei direitamente pelo **GitHub**
