@@ -29,3 +29,14 @@ Lista Demarcada
 
 [Acesse meu Github](https://github.com/c4rlosm4rtins)
 
+Teste Tabela
+
+Num | Nome | Nota
+---|---|---
+1 | Carlos | 100
+2 | Teste | 98
+3 | Teste | 75
+
+Terminou a Tabela
+
+
